@@ -6,9 +6,3 @@ for (const char of spinner) {
     process.stdout.write(char);
   }, delay += 100);
 }
-
-
-
-// setTimeout(() => {
-//   process.stdout.write(char);
-// }, delay += 700);
